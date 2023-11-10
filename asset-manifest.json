@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Task1/static/css/main.cdb71e59.css",
-    "main.js": "/React-Task1/static/js/main.0a45581f.js",
-    "static/js/787.fc04b808.chunk.js": "/React-Task1/static/js/787.fc04b808.chunk.js",
-    "index.html": "/React-Task1/index.html",
-    "main.cdb71e59.css.map": "/React-Task1/static/css/main.cdb71e59.css.map",
-    "main.0a45581f.js.map": "/React-Task1/static/js/main.0a45581f.js.map",
-    "787.fc04b808.chunk.js.map": "/React-Task1/static/js/787.fc04b808.chunk.js.map"
+    "main.css": "/React-Task2/static/css/main.1180cd75.css",
+    "main.js": "/React-Task2/static/js/main.9f0138ee.js",
+    "static/media/sun.png": "/React-Task2/static/media/sun.940dc58aac45e7264cdf.png",
+    "static/media/moon.png": "/React-Task2/static/media/moon.e59392f91a4a26e3b896.png",
+    "index.html": "/React-Task2/index.html",
+    "main.1180cd75.css.map": "/React-Task2/static/css/main.1180cd75.css.map",
+    "main.9f0138ee.js.map": "/React-Task2/static/js/main.9f0138ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdb71e59.css",
-    "static/js/main.0a45581f.js"
+    "static/css/main.1180cd75.css",
+    "static/js/main.9f0138ee.js"
   ]
 }
